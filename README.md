@@ -4,15 +4,15 @@ Some write-ups for challenges in Cyber Apocalypse CTF 2023 event
 
 Web:
 - Drobots
-Crypto:
-    - Ancient Encodings
-    - Perfect Synchronization
+Crypto: 
+- Ancient Encodings
+- Perfect Synchronization
 Reversing:
-    - Hunting License
+- Hunting License
 Misc:
-    - Persistence 
-    - Restricted 
-    - Remote computation
+- Persistence 
+- Restricted 
+- Remote computation
 Hardware:
-    + Timed Transmission
-    + Debug
++ Timed Transmission
++ Debug
