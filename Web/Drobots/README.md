@@ -10,8 +10,20 @@ After machine is spawned we and connect to it, We can see that it is a login pag
 
 Now let's go to the files and navigate their contents.
 There is a function called login() in the database.py file that matches the username and password in the database.
-But, we can clearly see that it is vulnerable due to a basic SQLi ...
+But, we can clearly see that it is vulnerable due to a basic code injection ...
 
 ![Alt text](./loginFunction.png "login page")
 
-So, after put username as >admin" OR 1=1 --
+So, after put username as ```admin" OR 1=1 #```
+The command will become like this ``` SELECT password FROM users WHERE username = "admin" OR 1=1 # AND password = "Hello" ``` and we don't care about the password because the rest of the command becomes a comment after "#".
+
+Now let't try that ...
+
+![Alt text](./adminLogin.png "admin login")
+
+<br />
+Then ...
+
+![Alt text](./adminPage.png "admin page")
+
+We got the flag :)
