@@ -7,7 +7,6 @@ Some write-ups for challenges in Cyber Apocalypse CTF 2023 event
 * Crypto:
  - Ancient Encodings
  - Perfect Synchronization
-<sup>
 * Reversing:
   - Hunting License
 * Misc:
