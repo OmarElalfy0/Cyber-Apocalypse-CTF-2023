@@ -23,7 +23,7 @@ Now let't try that ...
 
 <br />
 Then ...
-
+<br />
 
 ![Alt text](./adminPage.png "admin page")
 
