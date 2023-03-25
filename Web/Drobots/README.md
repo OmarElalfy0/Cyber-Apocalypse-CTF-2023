@@ -24,6 +24,9 @@ Now let't try that ...
 <br />
 Then ...
 
+
 ![Alt text](./adminPage.png "admin page")
 
 We got the flag :)
+
+```HTB{p4r4m3t3r1z4t10n_1s_1mp0rt4nt!!!}```
