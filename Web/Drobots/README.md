@@ -1,7 +1,10 @@
 CHALLENGE NAME: Drobots
 
 DESCRIPTION: Pandora's latest mission as part of her reconnaissance training is to infiltrate the Drobots firm that was suspected of engaging in illegal activities. Can you help pandora with this task?
-////
+
+
+
+
 After machine is spawned we and connect to it, We can see that it is a login page ...
 
 ![Alt text](./loginPage.png "login page")
