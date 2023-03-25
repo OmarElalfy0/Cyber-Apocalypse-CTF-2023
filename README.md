@@ -3,7 +3,7 @@ Some write-ups for challenges in Cyber Apocalypse CTF 2023 event
 
 
 Web:
-    - Drobots
+- Drobots
 Crypto:
     - Ancient Encodings
     - Perfect Synchronization
