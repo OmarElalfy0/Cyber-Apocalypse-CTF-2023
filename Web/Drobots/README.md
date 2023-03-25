@@ -13,3 +13,5 @@ There is a function called login() in the database.py file that matches the user
 But, we can clearly see that it is vulnerable due to a basic SQLi ...
 
 ![Alt text](./loginFunction.png "login page")
+
+So, after put username as >admin" OR 1=1 --
