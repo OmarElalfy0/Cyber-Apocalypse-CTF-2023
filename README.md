@@ -2,17 +2,17 @@
 Some write-ups for challenges in Cyber Apocalypse CTF 2023 event
 
 
-Web:
+* Web:
 - Drobots
 Crypto: 
 - Ancient Encodings
 - Perfect Synchronization
-Reversing:
+* Reversing:
 - Hunting License
-Misc:
+* Misc:
 - Persistence 
 - Restricted 
 - Remote computation
 Hardware:
-+ Timed Transmission
-+ Debug
+- Timed Transmission
+- Debug
