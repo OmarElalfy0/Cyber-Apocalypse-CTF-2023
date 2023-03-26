@@ -66,6 +66,8 @@ while last_line != '[!] Incorrect response':
     last_line = lines[-2]
 ```
 
+After solving all the 500 questions we got the flag 
 
+![Alt text](./solved.png "solved")
 
 Here is the flag ```HTB{d1v1d3_bY_Z3r0_3rr0r}```
