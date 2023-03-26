@@ -9,6 +9,12 @@ After machine is spawned we and connect to it, We can see that it is a login pag
 
 
 Now let's go to the files and navigate their contents.
+
+Here we can see in the entrypoint.sh file that there is an user called admin ...
+
+![Alt text](./entrypoint.png "admin")
+
+Also,
 There is a function called login() in the database.py file that matches the username and password in the database.
 But, we can clearly see that it is vulnerable due to a basic code injection ...
 
