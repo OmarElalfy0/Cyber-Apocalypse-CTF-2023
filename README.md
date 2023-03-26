@@ -1,5 +1,5 @@
 # Cyber-Apocalypse-CTF-2023
-Some write-ups for challenges in the Cyber Apocalypse CTF 2023 event
+Some write-ups for challenges I solved in the Cyber Apocalypse CTF 2023 event
 
 
 * Web:
