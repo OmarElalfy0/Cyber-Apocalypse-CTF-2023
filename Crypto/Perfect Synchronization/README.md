@@ -5,7 +5,7 @@ DESCRIPTION: The final stage of your initialization sequence is mastering cuttin
 </br></br></br>
 
 
-After reading the description, They minsion cutting-edge technology tools and one of these tools is ```quipqiup``` ...
+After reading the description, They use cutting-edge technology tools, and one of these tools is ```quipqiup``` ...
 
 After small search about it. ```quipqiup``` is a fast and automated cryptogram solver by Edwin Olson. It can solve simple substitution ciphers often found in newspapers, including puzzles like cryptoquips (in which word boundaries are preserved) and patristocrats (inwhi chwor dboun darie saren t). 
 
@@ -13,16 +13,15 @@ After take a took in to the source.py code
 
 ![Alt text](./source.png "source")
 
-we will able to see that all letters are using the same key and the same salt to encrypt ...
-This means that the same letters will have the same value. So, it is vulnerable, and we can use ```quipquip``` to find the real message...
+They use cutting-edge technology tools, and one of these tools is
 
 Here in each line we can see the encrypted letter ...
 
 ![Alt text](./output.png "output")
 
-Now lets use any program to give each value a different letter then we can ues ```quipquip``` because it is too large to handle by the webiste ...
+Now let's use any program to give each value a different letter, then we can use ```quipquip``` because it is too large to handle by the website...
 
-I uesed java to do that by creating a class called ```Dictionary``` to act like a dictionary for the larg values.
+I used Java to do that by creating a class called ```Dictionary``` to act like a dictionary for the large values.
 
 ```
 import java.util.ArrayList;
@@ -49,7 +48,7 @@ public class Dictionary {
 
 ```
 
-Then on the main methed  
+Then on the main method  
 
 ``` 
     public static void main(String[] args) throws FileNotFoundException {
@@ -85,7 +84,7 @@ The output >>>
 abcdecfghijfjkhlmlimlinjlcoipfiqrciajgqiqrjqimfijfhismtcfilqbcqgripaiubmqqcfikjfsejscigcbqjmfikcqqcblijfoigpvnmfjqmpflipaikcqqcblipggebiumqritjbhmfsiabcdecfgmclivpbcptcbiqrcbcimlijigrjbjgqcbmlqmgiomlqbmneqmpfipaikcqqcbliqrjqimlibpesrkhiqrciljvciapbijkvplqijkkiljvwkclipaiqrjqikjfsejscimfigbhwqjfjkhlmliabcdecfghijfjkhlmlijklpixfpufijligpefqmfsikcqqcblimliqrcilqeohipaiqrciabcdecfghipaikcqqcblipbisbpewlipaikcqqcblimfijigmwrcbqcyqiqrcivcqrpoimlielcoijlijfijmoiqpinbcjxmfsigkjllmgjkigmwrcbliabcdecfghijfjkhlmlibcdembclipfkhijinjlmgiefocblqjfomfsipaiqrcilqjqmlqmglipaiqrciwkjmfqcyqikjfsejscijfoilpvciwbpnkcvilpktmfsilxmkklijfoimaiwcbapbvcoinhirjfoiqpkcbjfgciapbicyqcflmtcikcqqcbinppxxccwmfsioebmfsiupbkoiujbimminpqriqrcinbmqmlrijfoiqrcijvcbmgjflibcgbemqcoigpocnbcjxcblinhiwkjgmfsigbpllupboiwezzkclimfivj{pbifculwjwcblijfoibeffmfsigpfqclqliapbiurpigpekoilpktciqrcviqrciajlqclqilctcbjkipaiqrcigmwrcblielcoinhiqrcijymliwpucbliucbcinbcjxjnkcielmfsiabcdecfghijfjkhlmliapbicyjvwkcilpvcipaiqrcigpflekjbigmwrcblielcoinhiqrci{jwjfclcivcgrjfmgjkivcqrpolipaikcqqcbigpefqmfsijfoilqjqmlqmgjkijfjkhlmliscfcbjkkhirqn|j}lmvwkc}lenlqmqeqmpf}ml}ucjx~igjboiqhwcivjgrmfcbhiucbciamblqielcoimfiupbkoiujbimmiwpllmnkhinhiqrcielijbvhlilmliqpojhiqrcirjboiupbxipaikcqqcbigpefqmfsijfoijfjkhlmlirjlinccfibcwkjgcoinhigpvweqcbilpaqujbciurmgrigjfigjbbhipeqilegrijfjkhlmlimfilcgpfoliumqrivpocbfigpvweqmfsiwpucbigkjllmgjkigmwrcblijbciefkmxckhiqpiwbptmocijfhibcjkiwbpqcgqmpfiapbigpfamocfqmjkiojqjiwezzkciwezzkciwezzkc
 ```
 
-Now lets copy this to <a href = "https://quipqiup.com">quip-quip</a>
+Now lets copy this to <a href = "https://quipqiup.com">quipquip</a>
 
 And start out journy to find clues for each letter ...
 
