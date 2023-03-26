@@ -2,7 +2,7 @@ CHALLENGE NAME: Hunting License
 
 DESCRIPTION: STOP! Adventurer, have you got an up to date relic hunting license? If you don't, you'll need to take the exam again before you'll be allowed passage into the spacelanes!
 
-</br></br></br></br>
+</br></br></br>
 
 Here we have 10 qestions ...
 
@@ -48,3 +48,6 @@ Reverse of ```0wTdr0wss4P``` is ```P4ssw0rdTw0```
 
 ![Alt text](./10.png "10")
 
+Here is the flag :)
+
+```HTB{l1c3ns3_4cquir3d-hunt1ng_t1m3!}```
