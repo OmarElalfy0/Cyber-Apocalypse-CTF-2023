@@ -17,8 +17,8 @@ I created a python program that connect to the ip then calculate and answer ques
 import socket
 
 # Define the server and port you want to connect to
-HOST = '167.172.50.208'
-PORT = 30011
+HOST = '0.0.0.0'
+PORT = 0000
 
 #AF_INET for IPv4, SOCK_STREAM for TCP (as opposed to UDP).
 clientsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
