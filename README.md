@@ -2,7 +2,7 @@
 Write-ups for challenges I solved in the Cyber Apocalypse CTF 2023 event
 
 
-* Web:
+* <a href="./Web">Web</a>:
   - Drobots
 
 * Hardware:
