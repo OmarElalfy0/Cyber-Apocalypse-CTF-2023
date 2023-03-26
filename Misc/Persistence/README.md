@@ -5,4 +5,11 @@ DESCRIPTION: Thousands of years ago, sending a GET request to /flag would grant 
 
 </br></br></br>
 
+When you send a GET request to /flag you will get a random data ...
+
+
+
+
+So lets try to 
+
 
