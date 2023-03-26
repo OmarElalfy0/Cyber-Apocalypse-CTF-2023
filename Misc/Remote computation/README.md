@@ -10,8 +10,9 @@ when we connect to the ip using ```nc``` we will see this ...
 ![Alt text](./connect.png "connect")
 
 But we are too slow ...
+
 So, we need to create a program to do that 
-I created a python program that connect to the ip and calculate and answer questions rapidly
+I created a python program that connect to the ip then calculate and answer questions rapidly
 ```
 import socket
 
