@@ -7,7 +7,7 @@ DESCRIPTION: Your team has recovered a satellite dish that was used for transmit
 Here we will use application called "Logic" 
 Logic analyzers are used to test circuits in embedded systems and microcontrollers, robotics, and automotive computers. Logic analyzers may also work in mixed signal systems that use both analog and digital signals.
 
-![Alt text](./operFile.png "open file")
+![Alt text](./openFile.png "open file")
 
 
 Then we will try to read the signals by using "Async Serial" tool in the app
