@@ -2,21 +2,21 @@
 Write-ups for challenges I solved in the Cyber Apocalypse CTF 2023 event
 
 
-* <a href="./Web">Web</a>:
-  - Drobots
+* Web:
+  - <a href="./Web/Drobots">Drobots</a>
 
 * Hardware:
-  - Timed Transmission
-  - Debug
+  - <a href="./Hardware/Timed Transmission">Timed Transmission</a>
+  - <a href="./Hardware/Debug">Debug</a>
 
 * Reversing:
-  - Hunting License
+  - <a href="./Reversing/Hunting License">Hunting License</a>
 
 * Misc:
-  - Persistence 
-  - Restricted 
-  - Remote computation
+  - <a href="./Misc/Persistence">Persistence</a>
+  - <a href="./Misc/Restricted">Restricted</a>
+  - <a href="./Misc/Remote computation">Remote computation</a>
 
 * Crypto:
-  - Ancient Encodings
-  - Perfect Synchronization
+  - <a href="./Crypto/Ancient Encodings">Ancient Encodings</a>
+  - <a href="./Crypto/Perfect Synchronization">Perfect Synchronization</a>
