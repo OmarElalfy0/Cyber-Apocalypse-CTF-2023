@@ -9,7 +9,7 @@ Lets start by reading the encryption code ...
 
 ![Alt text](./encrypt.png "encrypt")
 
-Here it is very simple encode bt convert it to base64 then to hex and we can do the revers staps with the encrypted message
+Here it is very simple encode by convert it to base64 then to hex and we can do the revers staps with the encrypted message
 
 I used <a herf="https://gchq.github.io/CyberChef/">CyberChef</a> to do that ... 
 
